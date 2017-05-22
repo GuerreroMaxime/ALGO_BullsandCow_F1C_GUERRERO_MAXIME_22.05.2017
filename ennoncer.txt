@@ -1,0 +1,24 @@
+Bulls and cows:
+But du jeu: Demander un mot a l'utilisateur, comparait ce mot avec le mot de votre fichier (10 mot max), mot charger au hazard,
+test des erreur de saisie, les mots saisie en mage son transmit en minuscule, le mots ne peuvent pas avoir plusieur fois la meme 
+lettre, un mot a un nombre de caractere max (soit 3-7).
+Comparer mot saisie avec mot fichier indique au joueur le nombre de lettre corecte et bien positionner (bulls: bien mise, cow: bien
+mit), nombre d'essait limiter en foncion de la taille du mot (3 lettre= 4 essaie, 4 lettre= 7 essaie, 5 lettre = 10 essaie,
+6 lettre = 16 essaie, 7 letre = 20 essaie). Si les mots sont inconrect alors le nombre ne sera pas décrémenter (tros petit, grand, 
+...). Indiquer au joueur quand il gagne ou perd.
+
+3: Mot
+   Eau
+
+4: Tous
+   Vite
+
+5: Alexy
+   Soupe
+
+6: Dorian
+   France
+
+7: Tambour
+   Corails
+
